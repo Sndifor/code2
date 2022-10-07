@@ -30,7 +30,7 @@
   </distributionManagement>
 
   
-    
+/*    
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
@@ -38,7 +38,7 @@
           <target>1.6</target>
         </configuration>
       </plugin>
-
+*/
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
         <configuration>
