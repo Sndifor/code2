@@ -28,7 +28,7 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
-
+         
   <build>
     <plugins>
       <plugin>
@@ -38,6 +38,7 @@
           <target>1.6</target>
         </configuration>
       </plugin>
+  <build>
          
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
